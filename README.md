@@ -81,16 +81,16 @@ Following inferences can be drawn from the dashboard;
     -Bhopal: ₹58.61M (5.94%)
     -Nagpur: ₹55.03M (5.59%)
 
-- Low Revenue Markets:
+   - Low Revenue Markets:
 
-        -Kochi: ₹18.11M (1.84%)
-        -Chennai: ₹18.04M (1.83%)
-        -Bengaluru: ₹0.37M (0.03%)
+    -Kochi: ₹18.11M (1.84%)
+    -Chennai: ₹18.04M (1.83%)
+    -Bengaluru: ₹0.37M (0.03%)
 
 - Insight: Delhi NCR generates over half of the total revenue, making it the most critical market, while Bengaluru and Kochi show room for growth.
   
   
-  ### [3] Sales by Markets
+### [3] Sales by Markets
   
   - Top Sales Markets:
 
