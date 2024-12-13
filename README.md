@@ -60,7 +60,7 @@ Through detailed visualizations, the dashboard identifies revenue drivers and hi
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+- A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
 
@@ -73,7 +73,7 @@ Following inferences can be drawn from the dashboard;
            
 ### [2] Revenue by Markets
 
-   Top Revenue-Generating Markets:
+   - Top Revenue-Generating Markets:
 
     -Delhi NCR: ₹519.58M (52.74%)
     -Mumbai: ₹150.08M (15.23%)
@@ -81,32 +81,32 @@ Following inferences can be drawn from the dashboard;
     -Bhopal: ₹58.61M (5.94%)
     -Nagpur: ₹55.03M (5.59%)
 
-Low Revenue Markets:
+- Low Revenue Markets:
 
-    -Kochi: ₹18.11M (1.84%)
-    -Chennai: ₹18.04M (1.83%)
-    -Bengaluru: ₹0.37M (0.03%)
+        -Kochi: ₹18.11M (1.84%)
+      -Chennai: ₹18.04M (1.83%)
+        -Bengaluru: ₹0.37M (0.03%)
 
-Insight: Delhi NCR generates over half of the total revenue, making it the most critical market, while Bengaluru and Kochi show room for growth.
+- Insight: Delhi NCR generates over half of the total revenue, making it the most critical market, while Bengaluru and Kochi show room for growth.
   
   
   ### [3] Sales by Markets
   
-      Top Sales Markets:
+  - Top Sales Markets:
 
-    -Delhi NCR: 988K units (49.4%)
-    -Mumbai: 384K units (19.2%)
-    -Nagpur: 262K units (13.1%)
-    -Kochi: 255K units (12.8%)
-    -Ahmedabad: 207K units (10.4%)
-Insight: Delhi NCR also leads in sales quantity, indicating high demand and engagement in this market.
+          -Delhi NCR: 988K units (49.4%)
+        -Mumbai: 384K units (19.2%)
+        -Nagpur: 262K units (13.1%)
+        -Kochi: 255K units (12.8%)
+        -Ahmedabad: 207K units (10.4%)
+- Insight: Delhi NCR also leads in sales quantity, indicating high demand and engagement in this market.
 
  ### [4] Revenue Trends
  
     -Peak Revenue Period: Mid-2018 with monthly revenue reaching ₹40M.
     -Lowest Revenue Period: Late 2019 with monthly revenue dropping to ₹10M.
 
-Insight: The sharp revenue decline after mid-2018 may require analysis to identify the reasons and replicate successful strategies from the peak period.
+- Insight: The sharp revenue decline after mid-2018 may require analysis to identify the reasons and replicate successful strategies from the peak period.
  
  ### [5] Top Customers
  
@@ -115,7 +115,7 @@ Insight: The sharp revenue decline after mid-2018 may require analysis to identi
     -Excel Stores: ₹49.12M (4.99%)
     -Premium Stores: ₹44.97M (4.57%)
     -Nixon: ₹43.89M (4.46%)
-Insight: Electricalsara Stores dominates revenue contributions, making it a key customer to prioritize and retain.
+- Insight: Electricalsara Stores dominates revenue contributions, making it a key customer to prioritize and retain.
          
 ### [6] Top Products
 
@@ -124,16 +124,16 @@ Insight: Electricalsara Stores dominates revenue contributions, making it a key 
     -Prod159: ₹17.66M (1.79%)
     -Prod005: ₹16.26M (1.65%)
     -Prod018: ₹15.6M (1.58%)
-Insight: A significant portion of revenue falls under the "(Blank)" category, which requires data validation to ensure accurate reporting.
+- Insight: A significant portion of revenue falls under the "(Blank)" category, which requires data validation to ensure accurate reporting.
 
 ### [7] Other Insights
 
-Revenue Contribution by Market:
+- Revenue Contribution by Market:
     -Top 3 Markets (Delhi NCR, Mumbai, Ahmedabad) contribute 81.41% of the total revenue.
     -Remaining markets contribute less than 20%.
-Product Performance:
+- Product Performance:
     -While specific products contribute steadily to revenue, the missing product name issue affects visibility and requires immediate attention.
-Customer Dependency:
+- Customer Dependency:
     -The top customer (Electricalsara Stores) alone accounts for over 40% of the total revenue. Diversifying the customer base can reduce revenue dependency on a single client.
 
 ### Recommendations:
