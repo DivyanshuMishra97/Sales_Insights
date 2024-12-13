@@ -138,8 +138,8 @@ Customer Dependency:
 
 ### Recommendations:
 
-Strengthen Top Markets: Focus on Delhi NCR and Mumbai to maintain and increase revenue.
-Investigate Data Gaps: Resolve the "(Blank)" product issue to ensure accurate reporting and uncover potential revenue sources.
-Boost Low-Performing Markets: Create targeted campaigns for markets like Kochi, Chennai, and Bengaluru to increase revenue share.
-Customer Retention: Build loyalty programs for Electricalsara Stores and other high-value customers to ensure long-term revenue stability.
-Analyze Peak Trends: Investigate factors behind the revenue peak in mid-2018 to replicate those strategies in future campaigns.
+    Strengthen Top Markets: Focus on Delhi NCR and Mumbai to maintain and increase revenue.
+    Investigate Data Gaps: Resolve the "(Blank)" product issue to ensure accurate reporting and uncover potential revenue sources.
+    Boost Low-Performing Markets: Create targeted campaigns for markets like Kochi, Chennai, and Bengaluru to increase revenue share.
+    Customer Retention: Build loyalty programs for Electricalsara Stores and other high-value customers to ensure long-term revenue stability.
+    Analyze Peak Trends: Investigate factors behind the revenue peak in mid-2018 to replicate those strategies in future campaigns.
