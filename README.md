@@ -66,6 +66,7 @@ Following inferences can be drawn from the dashboard;
     Total Sales Quantity: 2M units
 
 - Insight: Revenue and sales are distributed across multiple markets and customers, with significant contributions from top-performing regions and clients.
+
 ![1](https://github.com/user-attachments/assets/d2c12dd6-3032-46e8-962d-1e4bf2505b9f)
          
 ### [2] Revenue by Markets
@@ -85,6 +86,7 @@ Following inferences can be drawn from the dashboard;
     -Bengaluru: ₹0.37M (0.03%)
 
 - Insight: Delhi NCR generates over half of the total revenue, making it the most critical market, while Bengaluru and Kochi show room for growth.
+
 ![2](https://github.com/user-attachments/assets/d4e11b30-0805-4406-8225-15503166aaec)
   
 ### [3] Sales by Markets
@@ -98,6 +100,7 @@ Following inferences can be drawn from the dashboard;
         -Ahmedabad: 207K units (10.4%)
     
 - Insight: Delhi NCR also leads in sales quantity, indicating high demand and engagement in this market.
+
 ![3](https://github.com/user-attachments/assets/fdd18929-2082-45bc-8a7a-71b0a18bddf6)
 
  ### [4] Revenue Trends
@@ -106,6 +109,7 @@ Following inferences can be drawn from the dashboard;
     -Lowest Revenue Period: Late 2019 with monthly revenue dropping to ₹10M.
 
 - Insight: The sharp revenue decline after mid-2018 may require analysis to identify the reasons and replicate successful strategies from the peak period.
+
 ![4](https://github.com/user-attachments/assets/fe058def-1e6d-4bf0-8166-aade25a646c2)
 
  ### [5] Top Customers
@@ -117,6 +121,7 @@ Following inferences can be drawn from the dashboard;
     -Nixon: ₹43.89M (4.46%)
     
 - Insight: Electricalsara Stores dominates revenue contributions, making it a key customer to prioritize and retain.
+
 ![5](https://github.com/user-attachments/assets/58557fa5-a5e3-4398-8e2c-bf0cde11351f)
          
 ### [6] Top Products
@@ -128,6 +133,7 @@ Following inferences can be drawn from the dashboard;
     -Prod018: ₹15.6M (1.58%)
     
 - Insight: A significant portion of revenue falls under the "(Blank)" category, which requires data validation to ensure accurate reporting.
+
 ![6](https://github.com/user-attachments/assets/4f5664cf-c896-46af-a8ff-9a8833dabdde)
 
 ### [7] Other Insights
