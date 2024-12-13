@@ -84,7 +84,7 @@ Following inferences can be drawn from the dashboard;
 - Low Revenue Markets:
 
         -Kochi: ₹18.11M (1.84%)
-      -Chennai: ₹18.04M (1.83%)
+        -Chennai: ₹18.04M (1.83%)
         -Bengaluru: ₹0.37M (0.03%)
 
 - Insight: Delhi NCR generates over half of the total revenue, making it the most critical market, while Bengaluru and Kochi show room for growth.
@@ -94,11 +94,12 @@ Following inferences can be drawn from the dashboard;
   
   - Top Sales Markets:
 
-          -Delhi NCR: 988K units (49.4%)
+        -Delhi NCR: 988K units (49.4%)
         -Mumbai: 384K units (19.2%)
         -Nagpur: 262K units (13.1%)
         -Kochi: 255K units (12.8%)
         -Ahmedabad: 207K units (10.4%)
+    
 - Insight: Delhi NCR also leads in sales quantity, indicating high demand and engagement in this market.
 
  ### [4] Revenue Trends
@@ -115,6 +116,7 @@ Following inferences can be drawn from the dashboard;
     -Excel Stores: ₹49.12M (4.99%)
     -Premium Stores: ₹44.97M (4.57%)
     -Nixon: ₹43.89M (4.46%)
+    
 - Insight: Electricalsara Stores dominates revenue contributions, making it a key customer to prioritize and retain.
          
 ### [6] Top Products
@@ -124,6 +126,7 @@ Following inferences can be drawn from the dashboard;
     -Prod159: ₹17.66M (1.79%)
     -Prod005: ₹16.26M (1.65%)
     -Prod018: ₹15.6M (1.58%)
+    
 - Insight: A significant portion of revenue falls under the "(Blank)" category, which requires data validation to ensure accurate reporting.
 
 ### [7] Other Insights
