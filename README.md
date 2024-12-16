@@ -1,8 +1,6 @@
 
 # Sales and Revenue Dashboard
 
-### Dashboard Link : 
-
 ## Problem Statement
 
 This dashboard helps the IT company gain deeper insights into sales performance, revenue trends, and customer behavior. By analyzing data across multiple dimensions, such as top-performing markets, customers, products, and regions, it empowers the company to make informed decisions to improve overall business outcomes.
